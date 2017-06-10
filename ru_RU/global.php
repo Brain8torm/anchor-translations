@@ -22,6 +22,7 @@ return array(
 	'manage' => 'Настройки',
 	'reset' => 'Сбросить',
 	'all' => 'Все',
+	'cancel' => 'Отмена'
 
 	// pagination
 	'next' => 'Вперед',
